@@ -18,6 +18,8 @@ All of the coding was done in the jupyter notebook titled "CRISP-DM". In that do
 * Modeling
 
 I discuss the data wrangling and results from the models in the Modeling section and in the blog post tagged below.
+
+You can also find the data used for this project in the "BRA.csc" file.
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@roberto-bandeiram/predicting-soccer-results-in-brazil-b89042ddf216).
 
